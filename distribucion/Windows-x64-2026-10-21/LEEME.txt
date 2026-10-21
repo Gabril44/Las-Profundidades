@@ -1,0 +1,15 @@
+﻿Las Profundidades — Demo
+Lechuga Estudios — Build 2026-10-21. Windows de 64 bits.
+
+Extraé todo el ZIP y abrí Las-Profundidades-Demo.exe. No hace falta instalar LÖVE. Conservá las DLL al lado del ejecutable.
+
+CONTROLES POR DEFECTO (botones Xbox o posiciones equivalentes)
+Mover: A/D o flechas izquierda/derecha; stick izquierdo o cruceta.
+Trepar / cuerda: W/S o flechas arriba/abajo; stick arriba/abajo o cruceta.
+Saltar / soltarse: Espacio / A. Gancho / interactuar: E / X (también RB).
+Pico: F / B. Destello: Q / Y. Linterna: L / LB.
+Mapa / cuaderno: Tab / Back. Pausa / opciones: Esc / Start.
+
+Podés reasignar controles en Opciones. F11 alterna pantalla completa.
+
+Runtime LÖVE 11.5; licencias en LICENCIAS-LOVE.txt.

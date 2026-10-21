@@ -1,0 +1,5 @@
+﻿Build 2026-10-21 — 42 comprobaciones correctas.
+Windows x64, LÖVE 11.5, ícono de siete tamaños incrustado.
+Entradas de teclado, stick, cruceta y botones verificadas por software.
+No había un joystick físico conectado. La prueba no sustituye una partida con tu modelo real de mando.
+Corregida equivalencia de flechas con WASD respetando reasignaciones.

@@ -1,0 +1,10 @@
+LAS PROFUNDIDADES - BUILD DE DESARROLLO
+
+Forma recomendada:
+1. Abrí C:\Program Files\LOVE
+2. Arrastrá esta carpeta completa sobre love.exe
+
+Alternativa: doble clic en JUGAR.bat
+
+No abras las carpetas de builds anteriores para desarrollar.
+La versión oficial 1.0 se preparará cuando el juego esté terminado.
